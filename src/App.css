@@ -1,0 +1,32 @@
+
+.dark .ql-toolbar {
+    background-color: #2d3748; /* Dark background color for the toolbar */
+    border-color: #4a5568; /* Border color */
+  }
+  
+  .dark .ql-toolbar .ql-stroke {
+    stroke: #e2e8f0 !important; /* Light stroke color for icons */
+  }
+  
+  .dark .ql-toolbar .ql-fill {
+    fill: #e2e8f0 !important; /* Light fill color for icons */
+  }
+  
+  .dark .ql-toolbar .ql-picker {
+    color: #e2e8f0 !important; /* Text color for dropdown options */
+  }
+  
+  .dark .ql-toolbar .ql-picker-options {
+    background-color: #4a5568; /* Darker background for dropdown options */
+    color: #e2e8f0; /* Text color for options */
+  }
+  
+  .dark .ql-container.ql-snow {
+    background-color: #2d3748; /* Background color for the editor */
+    color: #e2e8f0; /* Text color for the editor */
+  }
+  
+  .dark .ql-container.ql-snow .ql-editor {
+    color: #e2e8f0; /* Editor text color */
+  }
+  
